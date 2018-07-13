@@ -2782,7 +2782,7 @@ article section .progress .info-con:before {
 }
 
 .ar article section .list .slogan-bg3 {
-	background: url(../images/slogan_33.jpg) no-repeat center center
+	background: url(../images/home_background03.jpg) no-repeat center center
 }
 
 .ar article section .list .con-list-items {
@@ -2791,8 +2791,8 @@ article section .progress .info-con:before {
 	-ms-transform: translate3d(-100%, 0, 0);
 	-o-transform: translate3d(-100%, 0, 0);
 	transform: translate3d(-100%, 0, 0);
-	padding-top: 9.375rem;
-	padding-right: 6.25rem;
+	padding-top: 30%;
+	padding-right:30%;
 	padding-left: 0
 }
 
