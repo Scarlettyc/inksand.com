@@ -3,8 +3,8 @@ html,body,div,strong,b,span,i,p,h1,h2,h3,h4,h5,h6,em,ol,ul,li,dl,dt,dd,article,a
 	padding: 0;
 	outline: 0;
 	font-style: normal;
-	font-size: 100%;
-	line-height: 1;
+	font-size: 110%;
+	/*line-height: 1;*/
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
@@ -53,6 +53,11 @@ body {
 
 .orange{
 	color: #eb6022;
+}
+.white{
+	color:#fff;
+	font-size: 30%;
+	text-transform: lowercase;
 }
 .clearfix {
 	zoom: 1
@@ -708,7 +713,7 @@ article section .list .slogan-bg2 .slogan-content p:first-child:after {
 }
 
 article section .list .slogan-bg2 .slogan-content p span {
-	color: #eb6022;
+	/*color: #eb6022;*/
 	font: Arial;
 }
 
@@ -721,7 +726,7 @@ article section .list .slogan-bg3 .slogan-content p:first-child:after {
 }
 
 article section .list .slogan-bg3 .slogan-content p span {
-	color: #eb6022
+	/*color: #eb6022*/
 }
 
 article section .list .slogan-content {
@@ -758,7 +763,7 @@ article section .list .slogan-content p:nth-child(2) {
 }
 
 article section .list .slogan-content p span {
-	color: #eb6022
+	/*color: #eb6022*/
 }
 
 article section .list .con-list {
