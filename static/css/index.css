@@ -1217,7 +1217,7 @@ article section .list .email {
 article section .list .phone {
 	background: url(../images/tel.png) no-repeat left top;
 	padding-left: 2.5rem;
-	line-height: 2.125rem
+	line-height: 2.5rem
 }
 
 article section .list .copyright {
@@ -2720,7 +2720,7 @@ article section .progress .info-con:before {
 }
 
 .ar div,.ar p,.ar li,.ar a,.ar span {
-	text-align: right;
+	/*text-align: right;*/
 	direction: rtl
 }
 
