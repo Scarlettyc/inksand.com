@@ -2724,7 +2724,6 @@ article section .progress .info-con:before {
 }
 
 .ar div,.ar p,.ar li,.ar a,.ar span {
-	/*text-align: right;*/
 	direction: rtl
 }
 
