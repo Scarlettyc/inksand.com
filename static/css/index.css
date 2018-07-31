@@ -1213,13 +1213,15 @@ article section .list .email {
 	background: url(../images/mail.png) no-repeat left center;
 	line-height: 2.125rem;
 	padding-left: 2.5rem;
-	margin-bottom: 1.5rem
+	margin-bottom: 1.5rem;
+	text-align: left;
 }
 
 article section .list .phone {
 	background: url(../images/tel.png) no-repeat left top;
 	padding-left: 2.5rem;
-	line-height: 2.5rem
+	line-height: 2.5rem;
+	text-align: left;
 }
 
 article section .list .copyright {
@@ -2996,7 +2998,8 @@ article section .progress .info-con:before {
 
 .ar article section .list .email {
 	background-position: right center;
-	padding-right: 2.5rem
+	padding-right: 2.5rem;
+	text-align: right;
 }
 
 .ar article section .progress .progress-list {
